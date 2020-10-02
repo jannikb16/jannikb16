@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 📫 How to reach me **info@pibot.eu**
+- 📫 How to reach me **jannik@pibot.eu**
 
 - ⚡ Fun fact **The first programming language (per sé) was called Fortran, and it was created in the ’50s.**
 

@@ -16,7 +16,7 @@
 <a href="https://codesandbox.com/jannikb14" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="jannikb14" height="30" width="40" /></a>
 <a href="https://instagram.com/jannik_b_16" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jannik_b_16" height="30" width="40" /></a>
 </p>
-
+<br><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jannikb16&layout=compact" alt="jannikb16" /></p>
 
